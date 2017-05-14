@@ -12,7 +12,7 @@ En esta charla repasaremos algunas de las ideas equivocadas con más resonancia.
 
 Tema presentado el 26 de octubre de 2016, en [Quito Lambda](https://www.meetup.com/es/Quito-Lambda-Meetup/events/234492889/). La presentación está inspirada en la charla "Haskell is Not For Production and Other Tales" de [Katie Oats](http://www.codemiller.com/talks/).
 
-Revisa la presentación completa [aquí](https://github.com/flandrade/haskell-sin-mitos/blob/master/slides/haskell-sin-mitos.pdf).
+Revisa la presentación completa [aquí](https://github.com/flandrade/haskell-sin-mitos/blob/master/presentacion/haskell-sin-mitos.pdf).
 
 ## Mitos 
 
